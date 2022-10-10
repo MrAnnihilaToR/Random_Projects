@@ -1,0 +1,17 @@
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\bin\Debug\net6.0-windows\My_Calculator.exe
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\bin\Debug\net6.0-windows\My_Calculator.deps.json
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\bin\Debug\net6.0-windows\My_Calculator.runtimeconfig.json
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\bin\Debug\net6.0-windows\My_Calculator.dll
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\bin\Debug\net6.0-windows\My_Calculator.pdb
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.csproj.AssemblyReference.cache
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.Form1.resources
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.csproj.GenerateResource.cache
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.AssemblyInfoInputs.cache
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.AssemblyInfo.cs
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.dll
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\refint\My_Calculator.dll
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.pdb
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\My_Calculator.genruntimeconfig.cache
+C:\Users\Machi\source\repos\My_Calculator\My_Calculator\obj\Debug\net6.0-windows\ref\My_Calculator.dll
